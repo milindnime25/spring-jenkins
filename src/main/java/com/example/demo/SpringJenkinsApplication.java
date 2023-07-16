@@ -13,6 +13,6 @@ public class SpringJenkinsApplication {
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 
 		logger.info("Application....");
-		logger.info("Application1....");
+
 	}
 }
